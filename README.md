@@ -19,6 +19,7 @@ A demo blog API built with Symfony to practice REST API development, user authen
    ```bash
    git clone https://github.com/Kerliula/symfony-blog-api-demo.git
    cd symfony-blog-api-demo
+   ```
 
 **2.** Install dependencies:
   ```bash 
